@@ -6,7 +6,7 @@
 * Production 
 * N-Queen
 
-## Using with following algorithms
+## With using following algorithms
 
 * Simulated Annealing
 * Local search
